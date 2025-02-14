@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I’m Guruprasad Lokhande!
+🎓 A passionate Computer Science Engineering student at Dr. D. Y. Patil Pratishthan’s College of Engineering, Kolhapur, with a strong interest in Full-Stack Development and AI-driven applications.
 
-<!--
-**GuruprasadLokhande/GuruprasadLokhande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Enthusiast | 🌐 Web Developer | 🤖 AI Explorer
 
-Here are some ideas to get you started:
+🛠️ Technical Skills
+Languages: Java (Core & Java 8), JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React, HTML, CSS, Tailwind CSS, Shadcn UI
+
+Backend: Spring Boot, Node.js, Servlet & JSP
+
+Databases: MySQL, MongoDB, Supabase
+
+Tools: Git, Postman, REST API, Prisma
+
+💼 Experience
+Web Developer at Biyani Technology Pvt. Ltd. (Jan 2025 – Present): Building responsive web applications and enhancing UI/UX with React and MySQL.
