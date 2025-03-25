@@ -12,7 +12,8 @@ Backend: Spring Boot, Node.js, Servlet & JSP
 
 Databases: MySQL, MongoDB, Supabase
 
-Tools: Git, Postman, REST API, Prisma
+Tools: Git, Postman, REST API, Prisma 
+
 
 💼 Experience
 Web Developer at Biyani Technology Pvt. Ltd. (Jan 2025 – Present): Building responsive web applications and enhancing UI/UX with React and MySQL.
