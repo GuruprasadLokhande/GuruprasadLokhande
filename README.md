@@ -1,19 +1,23 @@
 👋 Hi, I’m Guruprasad Lokhande!
 🎓 A passionate Computer Science Engineering student at Dr. D. Y. Patil Pratishthan’s College of Engineering, Kolhapur, with a strong interest in Full-Stack Development and AI-driven applications.
 
-💻 Tech Enthusiast | 🌐 Web Developer | 🤖 AI Explorer
+💻 Tech Enthusiast | 🌐 MERN Stack Developer | 🤖 AI Explorer
 
 🛠️ Technical Skills
-Languages: Java (Core & Java 8), JavaScript
-
-Frontend: React, HTML, CSS, Tailwind CSS, Shadcn UI
-
-Backend: Spring Boot, Node.js, Servlet & JSP
-
-Databases: MySQL, MongoDB, Supabase
-
-Tools: Git, Postman, REST API, Prisma 
-
+Languages: JavaScript (ES6+), TypeScript, Java (Basics)
+Frontend: React.js, HTML5, CSS3, Tailwind CSS, Shadcn UI
+Backend: Node.js, Express.js
+Databases: MongoDB, Supabase
+Tools & Platforms: Git & GitHub, Postman, RESTful APIs, Prisma
 
 💼 Experience
-Web Developer at Biyani Technology Pvt. Ltd. (Jan 2025 – Present): Building responsive web applications and enhancing UI/UX with React and MySQL.
+Web Developer at Biyani Technology Pvt. Ltd. (Jan 2025 – Present)
+
+Developing full-stack applications using the MERN stack
+
+Creating responsive UIs with React and Tailwind
+
+Designing and integrating RESTful APIs with Express and MongoDB
+
+Improving performance and user experience through efficient state management and clean code practices
+
