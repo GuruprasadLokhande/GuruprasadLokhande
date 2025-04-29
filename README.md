@@ -4,8 +4,8 @@
 💻 Tech Enthusiast | 🌐 MERN Stack Developer | 🤖 AI Explorer
 
 🛠️ Technical Skills
-Languages: JavaScript (ES6+), TypeScript, Java (Basics)
-Frontend: React.js, HTML5, CSS3, Tailwind CSS, Shadcn UI
+Languages: JavaScript (ES6+), Java (Basics)
+Frontend: React.js, Next.js HTML5, CSS3, Tailwind CSS, Shadcn UI
 Backend: Node.js, Express.js
 Databases: MongoDB, Supabase
 Tools & Platforms: Git & GitHub, Postman, RESTful APIs, Prisma
