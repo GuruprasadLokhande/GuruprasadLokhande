@@ -11,7 +11,7 @@ Databases: MongoDB, Supabase
 Tools & Platforms: Git & GitHub, Postman, RESTful APIs, Prisma
 
 💼 Experience
-Web Developer at Biyani Technology Pvt. Ltd. (Jan 2025 – Present)
+Web Developer at Biyani Technology Intern Pvt. Ltd. (Jan 2025 – May 2025)
 
 Developing full-stack applications using the MERN stack
 
